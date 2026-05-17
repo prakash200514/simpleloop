@@ -1,2 +1,2 @@
 looping concept
-stung concept og loop
+study concept og loop
