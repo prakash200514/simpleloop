@@ -3,4 +3,3 @@ study concept og loop
 it has no of files 
 starting
 python
-loop
