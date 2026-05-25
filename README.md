@@ -6,4 +6,3 @@ python
 loop
 writing
 example
-file
