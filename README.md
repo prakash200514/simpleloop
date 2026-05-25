@@ -7,4 +7,3 @@ loop
 writing
 example
 file
-no of file
